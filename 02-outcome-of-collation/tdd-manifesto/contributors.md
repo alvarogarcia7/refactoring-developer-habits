@@ -18,8 +18,8 @@ Here are a list of names (in no particular order):
 - Henrik Nyh (@Henrik)
 - Stephane Rolland (@stphrolland)
 - Joakim (@joakimk)
-- Johan Martinsson (johan_alps)
-- Jason Peper (jason_peper)
+- Johan Martinsson (@johan_alps)
+- Jason Peper (@jason_peper)
 and many others who had a peek at it whilst it was being created.
   
 If you have been to the session and if its not on the list above, please contact us with your name and twitter handle.
