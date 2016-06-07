@@ -16,7 +16,7 @@ Here are a list of names (in no particular order):
 - Catalina (@cataflu)
 - Alex Soler Sanandres (‏@XelamRelos)
 - Henrik Nyh (@Henrik)
-- Stephane
+- Stephane Rolland (@stphrolland)
 - Joakim (@joakimk)
 - Johan Martinsson (johan_alps)
 - Jason Peper (jason_peper)
